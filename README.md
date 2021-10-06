@@ -1,5 +1,5 @@
 # github_dns_script
-> 通过go多线程获取https://websites.ipaddress.com下github的ip，并修改到/etc/hosts文件里
+> 通过go多线程获取https://websites.ipaddress.com 下github的ip，并修改到/etc/hosts文件里
 
 ### 前提
 
